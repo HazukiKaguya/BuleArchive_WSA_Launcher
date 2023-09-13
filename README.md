@@ -1,0 +1,2 @@
+# BuleArchive_WSA_Launcher
+用于使用Steam的添加非Steam游戏功能将WSA上的日服BA添加到Steam库中
